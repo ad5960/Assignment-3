@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/edu/bu/met/cs665/example1/Person.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/edu/bu/met/cs665/Main.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/ReturningEmailFactory.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/EmailFactory.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/FrequentEmailFactory.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/EmailFactoryCreator.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/NewEmailFactory.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/Vipemailfactory.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/Main.java">
+</file>
+<file name="/Users/ayush/SoftwareD/Assignment_3/src/main/java/com/email/assignment2/BusinessEmailFactory.java">
+</file>
+</checkstyle>

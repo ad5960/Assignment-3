@@ -1,0 +1,10 @@
+edu/bu/met/cs665/Main.class
+com/email/assignment2/Main.class
+com/email/assignment2/BusinessEmailFactory.class
+com/email/assignment2/FrequentEmailFactory.class
+com/email/assignment2/Vipemailfactory.class
+com/email/assignment2/NewEmailFactory.class
+com/email/assignment2/EmailFactoryCreator.class
+com/email/assignment2/ReturningEmailFactory.class
+com/email/assignment2/EmailFactory.class
+edu/bu/met/cs665/example1/Person.class
